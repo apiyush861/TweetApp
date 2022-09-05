@@ -1,0 +1,9 @@
+2022-08-21 19:51:31,007 INFO com.tweetapp.TweetAppApplication [main] Starting TweetAppApplication using Java 11.0.12 on ctsdotnet374 with PID 15764 (C:\Users\cogdotnet983\Downloads\TweetApp-Comp2\TweetApp-SpringBoot\target\classes started by cogdotnet983 in C:\Users\cogdotnet983\Downloads\TweetApp-Comp2\TweetApp-SpringBoot)
+2022-08-21 19:51:31,018 INFO com.tweetapp.TweetAppApplication [main] The following profiles are active: nonprod
+2022-08-21 19:51:36,664 INFO com.tweetapp.TweetAppApplication [main] Started TweetAppApplication in 6.388 seconds (JVM running for 7.578)
+2022-08-21 20:12:30,537 INFO com.tweetapp.TweetAppApplication [main] Starting TweetAppApplication using Java 11.0.12 on ctsdotnet374 with PID 2248 (C:\Users\cogdotnet983\Downloads\TweetApp-Comp2\TweetApp-SpringBoot\target\classes started by cogdotnet983 in C:\Users\cogdotnet983\Downloads\TweetApp-Comp2\TweetApp-SpringBoot)
+2022-08-21 20:12:30,541 INFO com.tweetapp.TweetAppApplication [main] The following profiles are active: nonprod
+2022-08-21 20:12:36,293 INFO com.tweetapp.TweetAppApplication [main] Started TweetAppApplication in 6.435 seconds (JVM running for 7.356)
+2022-08-21 20:30:00,288 INFO com.tweetapp.TweetAppApplication [main] Starting TweetAppApplication using Java 11.0.12 on ctsdotnet374 with PID 12436 (C:\Users\cogdotnet983\Downloads\TweetApp-Comp2\TweetApp-SpringBoot\target\classes started by cogdotnet983 in C:\Users\cogdotnet983\Downloads\TweetApp-Comp2\TweetApp-SpringBoot)
+2022-08-21 20:30:00,291 INFO com.tweetapp.TweetAppApplication [main] The following profiles are active: nonprod
+2022-08-21 20:30:06,249 INFO com.tweetapp.TweetAppApplication [main] Started TweetAppApplication in 6.59 seconds (JVM running for 7.457)
